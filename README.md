@@ -1,3 +1,7 @@
+# 🌦️ Australian Rain Prediction
+
+A machine learning web application that predicts whether it will rain tomorrow in Australia using historical weather data and a Random Forest classifier.
+
 # 🌐 Available Languages
 
 The application is available in three language versions:
